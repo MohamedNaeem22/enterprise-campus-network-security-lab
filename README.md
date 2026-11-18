@@ -6,7 +6,8 @@ A multi-layer enterprise campus network designed, configured, and verified in **
 
 ## Topology Overview
 
-[./topology.png]
+<img width="1667" height="640" alt="topology png" src="https://github.com/user-attachments/assets/32a0a1f2-045b-481b-8607-cd03fa151e7a" />
+
 
 ### Network Architecture & Device Naming
 - **Edge & WAN Layer:** `Edge-Router` (Cisco 2811) handling external connectivity, NAT/PAT overload, Router-on-a-Stick (`Fa0/0.70`) for the Servers VLAN, and backup DHCP pools.
